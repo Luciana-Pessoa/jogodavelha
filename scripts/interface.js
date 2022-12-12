@@ -7,4 +7,4 @@ squares.forEach((square) => {
 
 function handleClick(event){
     console.target);
-}
+}    
